@@ -16,7 +16,7 @@ A complete Object Detection pipeline built with RT-DETR and Pascal VOC 2012 usin
 
 ### 🎥 Video Prediction Demo
 
-<video src="inference_output/0gWCKmuE.mp4" width="800">
+<video src="inference_output/result_fixed-n.gif" width="800">
 </video>
 
 ---
