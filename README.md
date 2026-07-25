@@ -16,10 +16,8 @@ A complete Object Detection pipeline built with RT-DETR and Pascal VOC 2012 usin
 
 ### 🎥 Video Prediction Demo
 
-<video src="[sha256:f6506aaa19b51a27dc221902c1754f5f26b01ddbf3ca5b5616af3978db1cba67](https://github.com/user-attachments/assets/2c5adc67-2a1f-444c-9a99-2ffaa4d60b96)" width="800">
+<video src="https://github.com/Amirmoh11n/RT-DETR-Object-Detection-Model-V1.1/releases/download/v1.1/0gWCKmuE.mp4" width="800">
 </video>
-
-
 
 ---
 
