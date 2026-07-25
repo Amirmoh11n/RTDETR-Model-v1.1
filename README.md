@@ -19,7 +19,7 @@ A complete Object Detection pipeline built with RT-DETR and Pascal VOC 2012 usin
 <video src="sha256:f6506aaa19b51a27dc221902c1754f5f26b01ddbf3ca5b5616af3978db1cba67" width="800">
 </video>
 
-https://github.com/user-attachments/assets/2c5adc67-2a1f-444c-9a99-2ffaa4d60b96
+
 
 ---
 
